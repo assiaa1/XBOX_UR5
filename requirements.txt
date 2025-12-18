@@ -1,0 +1,19 @@
+# --- Core ---
+numpy>=1.24
+
+# --- GUI ---
+PyQt6>=6.6
+
+# --- Robot UR (RTDE) ---
+ur-rtde>=1.5.8
+
+# --- Simulation ---
+pybullet>=3.2.6
+
+# --- Gamepad / XInput ---
+pyglet>=1.5
+
+# --- Typing / dataclasses (sécurité Python < 3.10) ---
+typing-extensions>=4.7
+
+pygame 
